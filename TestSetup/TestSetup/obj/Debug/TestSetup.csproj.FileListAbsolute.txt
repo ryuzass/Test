@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\TestSetup\TestSetup\bin\Debug\TestSetup.exe.config
+C:\Users\USER\source\repos\TestSetup\TestSetup\bin\Debug\TestSetup.exe
+C:\Users\USER\source\repos\TestSetup\TestSetup\bin\Debug\TestSetup.pdb
+C:\Users\USER\source\repos\TestSetup\TestSetup\obj\Debug\TestSetup.csprojResolveAssemblyReference.cache
+C:\Users\USER\source\repos\TestSetup\TestSetup\obj\Debug\TestSetup.Form1.resources
+C:\Users\USER\source\repos\TestSetup\TestSetup\obj\Debug\TestSetup.Properties.Resources.resources
+C:\Users\USER\source\repos\TestSetup\TestSetup\obj\Debug\TestSetup.csproj.GenerateResource.Cache
+C:\Users\USER\source\repos\TestSetup\TestSetup\obj\Debug\TestSetup.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\TestSetup\TestSetup\obj\Debug\TestSetup.exe
+C:\Users\USER\source\repos\TestSetup\TestSetup\obj\Debug\TestSetup.pdb
