@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\coffee kiw\coffee kiw\bin\Debug\coffee kiw.exe.config
+C:\Users\USER\source\repos\coffee kiw\coffee kiw\bin\Debug\coffee kiw.exe
+C:\Users\USER\source\repos\coffee kiw\coffee kiw\bin\Debug\coffee kiw.pdb
+C:\Users\USER\source\repos\coffee kiw\coffee kiw\obj\Debug\coffee kiw.csprojResolveAssemblyReference.cache
+C:\Users\USER\source\repos\coffee kiw\coffee kiw\obj\Debug\coffee_kiw.Form1.resources
+C:\Users\USER\source\repos\coffee kiw\coffee kiw\obj\Debug\coffee_kiw.Properties.Resources.resources
+C:\Users\USER\source\repos\coffee kiw\coffee kiw\obj\Debug\coffee kiw.csproj.GenerateResource.Cache
+C:\Users\USER\source\repos\coffee kiw\coffee kiw\obj\Debug\coffee kiw.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\coffee kiw\coffee kiw\obj\Debug\coffee kiw.exe
+C:\Users\USER\source\repos\coffee kiw\coffee kiw\obj\Debug\coffee kiw.pdb
